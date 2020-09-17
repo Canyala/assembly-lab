@@ -1,2 +1,2 @@
 # assembly-lab
-TypeScript, AssemblyScrtipt and Web Workers
+TypeScript, AssemblyScript and Web Workers
