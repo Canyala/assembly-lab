@@ -1,0 +1,34 @@
+{
+  "name": "assembly-lab",
+  "version": "1.0.0",
+  "description": "TypeScript, AssemblyScript and Web Workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Canyala/assembly-lab.git"
+  },
+  "author": "Martin Fredriksson <martin@canyala.se> (www.canyala.se)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Canyala/assembly-lab/issues"
+  },
+  "homepage": "https://github.com/Canyala/assembly-lab#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "@types/node": "^14.10.3",
+    "@types/source-map-support": "^0.5.3",
+    "assemblyscript": "^0.14.10",
+    "jest": "^26.4.2",
+    "onchange": "^7.0.2",
+    "serve": "^11.3.2",
+    "source-map-support": "^0.5.19",
+    "ts-jest": "^26.3.0",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "@assemblyscript/loader": "^0.14.10"
+  }
+}
